@@ -62,8 +62,8 @@ The one-line version of profitability: **you win when LTV comfortably exceeds CA
 
 ### Where to learn it (exact resources)
 - **Meta Blueprint** (https://facebookblueprint.com) or (https://www.facebook.com/business/learn): 100+ free self-paced mini-courses. Start with the campaign setup, objectives, and "Measure Your Ad Performance" tracks. The courses are free even though the certification exams are paid.
-- **Google Skillshop** (skillshop.withgoogle.com): completely free, including the exams. Do the **Google Ads Search Certification** and the **Google Analytics (GA4) Certification**. These are the best free structured intros to search advertising and analytics that exist.
-- **Demand Curve's Growth Guide** (demandcurve.com): a free, practitioner-written playbook covering paid acquisition fundamentals end to end.
+- **Google Skillshop** (https://skillshop.withgoogle.com): completely free, including the exams. Do the **Google Ads Search Certification** and the **Google Analytics (GA4) Certification**. These are the best free structured intros to search advertising and analytics that exist.
+- **Demand Curve's Growth Guide** (https://demandcurve.com): a free, practitioner-written playbook covering paid acquisition fundamentals end to end.
 - **Books:** *$100M Offers* by Alex Hormozi (offer creation, read this first), and *Building a StoryBrand* by Donald Miller (messaging clarity).
 - **YouTube:** Adam Erhart (strategy fundamentals), and platform-specific walkthroughs from active media buyers (prefer channels updated within the last year that mention Advantage+).
 
